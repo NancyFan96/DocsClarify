@@ -1,0 +1,9 @@
+filer.py, parser_matrix.py均是预处理程序，分别去停用词，转化csv文件
+
+count.hpp, count.cpp, main.cpp
+是主要处理程序，直接调用Makefile就可编译生成classify可执行文件
+其中，可执行文件的输入都在Data文件夹中
+
+getF.cpp是单独计算F值得c.pp源代码，用g++编译即可
+
+ans.txt, FVALUE.txt是本次实验的最终结果

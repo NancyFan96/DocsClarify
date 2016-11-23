@@ -1,0 +1,6 @@
+total true class number is 13816
+total class number we predict is 29350
+correct class number we predict is 7589
+precision is 0.258567
+recall is 0.549291
+f value is 0.351617
